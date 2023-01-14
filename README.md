@@ -13,7 +13,6 @@
 
 [<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="aditya-kumawat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="adithinksinstaisshit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -38,14 +37,5 @@
 <br />
 
 ---
-
-<details>
-   <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Aditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AdityaKumawat97&show_icons=true&hide_border=true" />
-
-</details>
-
-
 [website]: https://daoudbashir-developer.web.app
 [linkedin]: https://www.linkedin.com/in/daoud-dev/
