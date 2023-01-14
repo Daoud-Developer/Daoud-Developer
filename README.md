@@ -1,6 +1,6 @@
 ### Hi there, I'm Daoud 👋
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://adityas-portfolio.netlify.app)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://daoudbashir-developer.web.app)
 
 ## I'm new, but a passionate Developer!
 
