@@ -37,5 +37,5 @@
 <br />
 
 ---
-[website]: https://daoudbashir-developer.web.app
+[website]: https://nexgencodes.com
 [linkedin]: https://www.linkedin.com/in/daoud-dev/
